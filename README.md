@@ -1,10 +1,10 @@
-![Screenshot_٢٠٢٤١١٠٢-١١١٤٣٩](https://github.com/user-attachments/assets/f994ea71-33e7-4c32-80bb-bea7f567f7a2)
-- 👋 Hi, I’m @Ahmadhamm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+
+- 👋 Hi, I’m @Ahmadhammad
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me WhatsApp 
+- 😄 Pronouns: ❤️
 - ⚡ Fun fact: ...control + shift + m
 
 
